@@ -2,4 +2,4 @@ Student_id : 2313110799
 Student Name kosol pinkeaw
 Major : IT
 Level : 1
-Faculty : Information Technology
+Faculty : Information Technology 
