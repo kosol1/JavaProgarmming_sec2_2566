@@ -23,4 +23,6 @@ public class Withdrawal {
 		int b500=(withdraw%1000/500);
 		int b100=(withdraw%1000/100);
 		
-		OJptionPane.showMessageDialog(null, "You withdraw"+withdraw+"\n1000 = "+b1000+"\n500 ="+b500+"\n100 ="+b100);
+		JOptionPane.showMessageDialog(null, "You withdraw"+withdraw+"\n1000 = "+b1000+"\n500 ="+b500+"\n100 ="+b100);
+	}
+}
