@@ -1,4 +1,4 @@
 id : 2313110799
 Name-Surname : Kosol Pinkeaw
-Data : Nov-29-2023
-Topic : Loop, Jump Statement, and Confirm Dialog box
+Data : Dec-13-2023
+Topic : Work with String and the String Method
