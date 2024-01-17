@@ -1,4 +1,4 @@
 id : 2313110799
 Name-Surname : Kosol Pinkeaw
-Data : 10-jan-2024
-Topic : Class and Object
+Data : 17-jan-2024
+Topic : Encapsulation Concept
