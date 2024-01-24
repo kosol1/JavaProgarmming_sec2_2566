@@ -1,4 +1,4 @@
 id : 2313110799
 Name-Surname : Kosol Pinkeaw
-Data : 17-jan-2024
-Topic : Encapsulation Concept
+Data : 24-jan-2024
+Topic : Composition, Inheritance, and Polymorphism Concept
